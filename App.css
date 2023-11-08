@@ -1,0 +1,63 @@
+
+
+
+.chickenindex00{
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  text-align: right;
+  background-color: #fff;
+  display:table-column-group;
+  height: 1200px; 
+  overflow-y: auto; 
+  border: 1px solid #ccc; 
+  margin-top: 30px;
+}
+.chikendetails{
+  border: 3px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  text-align: left;
+  background-color: #fff;
+  max-width: 1050px;
+  margin-top: 30px;
+}
+
+/* .image-container{
+
+display: flex;
+justify-content: space-around;
+border: 1px solid #ccc;
+border-radius: 5px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+padding: 30px 100px;
+text-align: center;
+background-color: #fff; 
+}*/
+
+
+/* .chickenindex{
+justify-content:space-around;
+} */
+
+.Card{
+display: flex;
+border: 1px solid #ccc;
+
+
+}
+
+.image{
+justify-items: left;
+}
+.flex{
+display: flex;
+/* justify-content: space-around; */
+
+}
+.imge{
+/* margin-left: 300px; */
+width: 500px;
+}
